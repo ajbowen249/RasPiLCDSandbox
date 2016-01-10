@@ -15,6 +15,7 @@ using Windows.Devices.Spi;
 using Windows.UI.Xaml.Navigation;
 using Windows.Devices.Enumeration;
 using System.Threading.Tasks;
+using LCDUtils;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=402352&clcid=0x409
 
@@ -25,13 +26,14 @@ namespace RasPiLCDSandbox
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        SpiDevice screenSPI;
+        OsoyooCustomSPI screenSPI;
+        //SpiDevice screenSPI;
 
         public MainPage()
         {
             this.InitializeComponent();
-
-            var selector = SpiDevice.GetDeviceSelector();
+            
+            /*var selector = SpiDevice.GetDeviceSelector();
             
             var devicesTask = DeviceInformation.FindAllAsync(selector).AsTask();
             while (!devicesTask.IsCompleted) ;//devicesTask;
@@ -45,7 +47,9 @@ namespace RasPiLCDSandbox
 
             var screenSPITask = SpiDevice.FromIdAsync(devices[0].Id, screenSettings).AsTask();
             while (!screenSPITask.IsCompleted);
-            screenSPI = screenSPITask.Result;
+            screenSPI = screenSPITask.Result;*/
+            screenSPI = new OsoyooCustomSPI();
+            screenSPI.Initialize();
 
             lcd_reset();
 

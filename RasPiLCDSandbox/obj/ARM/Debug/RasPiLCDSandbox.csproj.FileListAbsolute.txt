@@ -435,3 +435,12 @@ c:\users\alex\documents\visual studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSand
 c:\users\alex\documents\visual studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\obj\ARM\Debug\Core\WinMetadata\Windows.winmd
 c:\users\alex\documents\visual studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\obj\ARM\Debug\Core\resources.pri
 c:\users\alex\documents\visual studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\obj\ARM\Debug\RasPiLCDSandbox.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\bin\ARM\Debug\Core\LCDUtils.dll
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\bin\ARM\Debug\Core\LCDUtils.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\bin\ARM\Debug\Core\LCDUtils\Properties\LCDUtils.rd.xml
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\bin\ARM\Debug\LCDUtils.dll
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\bin\ARM\Debug\LCDUtils.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\bin\ARM\Debug\LCDUtils.pri
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\obj\ARM\Debug\Core\LCDUtils.pdb
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\obj\ARM\Debug\Core\LCDUtils.dll
+C:\Users\alex\Documents\Visual Studio 2015\Projects\RasPiLCDSandbox\RasPiLCDSandbox\obj\ARM\Debug\Core\LCDUtils\Properties\LCDUtils.rd.xml

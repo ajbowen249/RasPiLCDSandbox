@@ -62,6 +62,15 @@
 					</Candidate>
 				</NamedResource>
 			</ResourceMapSubtree>
+			<ResourceMapSubtree name="LCDUtils">
+				<ResourceMapSubtree name="Properties">
+					<NamedResource name="LCDUtils.rd.xml" uri="ms-resource://3e6487fa-294d-41bb-9df5-8ecefaee3715/Files/LCDUtils/Properties/LCDUtils.rd.xml">
+						<Candidate type="Path">
+							<Value>LCDUtils\Properties\LCDUtils.rd.xml</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
 			<ResourceMapSubtree name="Properties">
 				<NamedResource name="Default.rd.xml" uri="ms-resource://3e6487fa-294d-41bb-9df5-8ecefaee3715/Files/Properties/Default.rd.xml">
 					<Candidate type="Path">
